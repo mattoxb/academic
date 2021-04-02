@@ -1,39 +1,36 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Mattox Beckman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Teaching Assistant Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Illinois at Urbana-Champaign
+  url: https://www.uiuc.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: 
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Computer Science Education
+- Competitive Programming
+- Functional Programming
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of Illinois at Urbana-Champaign
+    year: 2003
+  - course: BS in Math and Computer Science
+    institution: University of Illinois at Urbana-Champaign
+    year: 1993
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,36 +39,39 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:mattox@illinois.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/mattoxbeckman
+- icon: google-scholar  # Alternatively, use `graduation-cap` icon from `fas` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=n9W52r0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/mattoxb
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/mattoxbeckman
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2478-0331
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: media/resume.pdf
+#   link: media/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "mattox@illinois.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Teaching Assistant Professor of Computer Science at the [Univerisity of Illinois at Urbana-Champaign](https://illinois.edu/) in the [Department of Computer Science](https://cs.illinois.edu/).  I am passionate about teaching, functional programming languages (particulaly [Haskell](https://haskell.org)), and Competitive Programming/ICPC.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+I received my PhD from UIUC in 2003, studying self-applicable online partial evaluators under [Sam Kamin](https://cs.illinois.edu/about/people/emeritus-faculty/kamin).  I taught Computer Science at the [Illinois Institute of Technology](https://iit.edu) for 13 years before returning here in 2015.
+
