@@ -20,7 +20,7 @@ any of this, or have suggestions.
 I had to get three things to set all this up.
 
 First, I got a USB Microphone.  You can test the microphone on your computer, but most people find that theirs is not
-very good.  I got the  [Blue Yeti USB Microphone](https://www.bluemic.com/en-us/products/yeti/); I got mine in 2013, and
+very good.  I got the  [Blue Yeti USB Microphone](https://www.bluemic.com/en-us/products/yeti/) in 2013, and
 that model is still for sale.  It has several capture modes; I usually use one called *cardioid* which is somewhat
 directional.  This does a good job of capturing my voice while not capturing the sound of the computer fan if it happens
 to come on during the recording.
