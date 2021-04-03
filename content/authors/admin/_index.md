@@ -54,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/mattoxbeckman
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0003-2478-0331
+  link: https://orcid.org/0000-0002-0935-365X
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
