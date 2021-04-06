@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Mattox Beckman # Website name
-baseurl: '' # Website URL
+baseurl: 'https://mattox.netlify.app' # Website URL
 copyright: '© {year} Mattox Beckman'
 
 ############################

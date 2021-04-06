@@ -14,17 +14,17 @@ main:
 #    url: '#talks'
 #    weight: 40
   - name: Teaching
-    url: '#featured'
+    url: '#teaching'
     weight: 20
   - name: Posts
     url: '#posts'
     weight: 30
+  - name: Publications
+    url: '#publications'
+    weight: 50
   - name: CV
     url: '#cv'
     weight: 60
-      #  - name: Publications
-      #    url: '#featured'
-      #    weight: 50
   - name: Contact
     url: '#contact'
     weight: 70
