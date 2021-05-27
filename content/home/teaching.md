@@ -15,13 +15,13 @@ subtitle:
 
 I teach the following courses. 
 
-- [CS 421: Programming Languages](https://pages.github-dev.cs.illinois.edu/cs421-sp21/web/)
-- [CS 491 CAP: Competitive Algorithmic Programming](https://pages.github-dev.cs.illinois.edu/cs491cap/web-sp21/)
-- [Eng 598 TL (Cross listed with CS 591 TA)](https://publish.illinois.edu/eng-ielite/)
+- [CS 421: Programming Languages](teaching/cs421-programming-languages)
+- [CS 491 CAP: Competitive Algorithmic Programming](teaching/cs421cap-competitive-algorithmic-programming)
+- [Eng 598 TL (Cross listed with CS 591 TA)](teaching/eng598tl-teaching-and-leadership)
 - CS 296-25: Data Structures Honors Section
 
 I usually flip my classroom if possible, and during the "lecture" time have the students work on a
-[POGIL](https://pogil.org) activity.  Currently I am experimenting
-with [Specifications Grading](https://styluspub.presswarehouse.com/browse/book/9781620362426/Specifications-Grading).
+[POGIL](project/pogil) activity.  Currently I am experimenting
+with [Specifications Grading](project/specifications-grading)
 It is a bit of an adjustment, but so far I like it.
 
