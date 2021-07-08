@@ -56,7 +56,7 @@ but there are many variations.  Here are the classic roles:
 The activities themselves use carefully crafted examples and questions that guide the students
 and help them to learn the content on their own.  Properly constructed, a formal lecture is not
 even necessary.  Each activity implements a *Learning Cycle* that consists of three phases:
-    - Exploration --- Students observe patterns
-    - Concept Invention --- Instructor introduces vocabulary and refines understanding
-    - Application --- Students apply knowledge to solve a new problem
+  - Exploration: Students observe patterns
+  - Concept Invention: Instructor introduces vocabulary and refines understanding
+  - Application: Students apply knowledge to solve a new problem
 
