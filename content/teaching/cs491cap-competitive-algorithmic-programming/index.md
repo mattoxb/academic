@@ -19,5 +19,5 @@ course would appeal to students who were new to competitive programming, and tha
 What I did not expect was when a student mentioned &mdash; on the way back from world finals &mdash; that their
 start in competitive programming was this class.  (I did not ask if it was my version or the GTAs' version.)
 
-If you are curious about the course you can see the most recent semester [https://uiuc-cs491cap.netlify.app](here).
+If you are curious about the course you can see the most recent semester [here](https://uiuc-cs491cap.netlify.app).
 
