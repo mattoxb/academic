@@ -70,7 +70,7 @@ email: "mattox@illinois.edu"
 highlight_name: true
 ---
 
-I am a Teaching Assistant Professor of Computer Science at the [Univerisity of Illinois at Urbana-Champaign](https://illinois.edu/) in the [Department of Computer Science](https://cs.illinois.edu/).  I am passionate about teaching, functional programming languages (particulaly [Haskell](https://haskell.org)), and Competitive Programming/ICPC.
+I am a Teaching Associate Professor of Computer Science at the [Univerisity of Illinois at Urbana-Champaign](https://illinois.edu/) in the [Department of Computer Science](https://cs.illinois.edu/).  I am passionate about teaching, functional programming languages (particulaly [Haskell](https://haskell.org)), and Competitive Programming/ICPC.
 
 
 I received my PhD from UIUC in 2003, studying self-applicable online partial evaluators under [Sam Kamin](https://cs.illinois.edu/about/people/emeritus-faculty/kamin).  I taught Computer Science at the [Illinois Institute of Technology](https://iit.edu) for 13 years before returning here in 2015.
