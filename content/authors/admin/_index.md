@@ -6,7 +6,7 @@ title: Mattox Beckman
 superuser: true
 
 # Role/position/tagline
-role: Teaching Assistant Professor of Computer Science
+role: Teaching Associate Professor of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
